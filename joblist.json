@@ -1,0 +1,15 @@
+{
+    "sales" : "営業",
+    "planning_management" : "企画 OR 事業統括 OR 新規事業開発 OR 管理職 OR エグゼクティブ",
+    "clerk" : "事務 OR 総務 OR 窓口 OR  受付",
+    "system_engineer" : "IT OR システムエンジニア OR SE OR ネットワーク OR Web OR 通信",
+    "machine_engineer" : "電気 OR 電子 OR 機械 OR 自動車 OR エンジニア",
+    "architect_engineer" : "建築設計 OR 土木 OR プラント OR 設備",
+    "other_engineer" : " エンジニア OR 素材 OR 化学 OR 食品",
+    "specialist" : "コンサルタント OR マーケティング OR 不動産 OR 士業",
+    "medical_specialist" : "医療 OR メディカル OR 福祉 OR 介護",
+    "finance_specialist" : "銀行 OR 保険 OR FP OR フィナンシャルプランナー",
+    "creator" : "プロデューサー OR ディレクター OR プランナー OR デザイナー OR アートディレクター OR 記者 OR ライター OR 芸能 OR ゲーム",
+    "representative_service" : "店長 OR 販売 OR 接客 OR ホールスタッフ OR フロアスタッフ OR 調理スタッフ OR エリアマネジャー OR スーパーバイザー OR 美容師 OR エステティシャン OR 添乗員 OR ツアーコンダクター OR フロント業務 OR 清掃 OR 警備 OR バイヤー",
+    "public_official" : "公務員 OR 警察官 OR 教師 OR 教諭 OR 講師 OR 農業 OR 畜産 OR 酪農"
+}
